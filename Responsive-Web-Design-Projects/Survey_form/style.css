@@ -1,0 +1,96 @@
+body {
+  background-color: #8d89cc;
+  font-family: Arial;
+
+}
+
+#description {
+  font-size: 18px;
+  opacity: 0.75;
+}
+#form-title {
+  text-align: center;
+  color: white;
+}
+
+#form {
+  display: flex;
+  border-radius: 5px;
+  background-color: #1e2887;
+  justify-content: left;
+  width: 710px;
+  
+    max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+form {
+  margin-top: 40px;
+  margin-left: 30px;
+}
+label {
+  color: white;
+  padding-left: 20px;
+  font-family: Arial;
+  font-size: 18px;
+}
+input {
+  margin-left: 20px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  width: 600px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+#dropdown {
+  margin-left: 20px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  width: 610px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+#radio {
+  width: 18px;
+  height: 18px;
+  margin-bottom: 0px;
+}
+
+#radio-list {
+  margin-bottom: 25px;
+}
+
+#checkbox {
+  width: 15px;
+  height: 15px;
+  margin-bottom: 10px;
+}
+
+#suggestions {
+  margin-top: 20px;
+}
+
+#textarea {
+  height: 120px;
+  border: -10px;
+}
+
+textarea {
+ margin-top: 15px;
+ margin-left: 20px;
+}
+
+#submit {
+  margin-top: 15px;
+  width: 620px;
+  background-color: green;
+  color: white;
+}
+
+
+

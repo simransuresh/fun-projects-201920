@@ -1,0 +1,38 @@
+main {
+  width: 75%;
+  margin-left: 325px;
+  margin-top: 30px;
+  margin-right: 200px;
+}
+nav {
+  position: fixed;
+  width: 20%;
+  margin-left: 10px;
+  float: left;
+  overflow: auto;
+  height: 100%;
+  background-color: skyblue;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+}
+header {
+  font-weight: 600;
+  font-size: 28px;
+  padding: auto;
+  margin: auto;
+}
+code {
+  display: block;
+  background-color: lightgray;
+  width: 1000px;
+  height: auto;
+  margin-left: 10px;
+}
+
+@media (min-width: 200px) {
+  background-color: lightgray;
+}
+
+

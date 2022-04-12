@@ -1,0 +1,80 @@
+#main {
+  background-color: lightgray;
+}
+#title-card {
+  padding-top: 40px;
+  font-size: 40px;
+}
+
+#title {
+  text-align: center;
+  font-family: Calibri;
+  opacity: 0.75;
+  
+}
+
+#img-div {
+  background-color: white;
+  margin: auto;
+  width: 98%;
+}
+#image {
+  padding-left: 10%;
+  padding-right: 10%;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#img-caption {
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+#tribute-info {
+  display: flex;
+  justify-content: center;
+}
+#contents {
+  width: 40%;
+  height: 50%;
+  text-align: center;
+}
+ul {
+  text-align: left;
+  padding-top: 10px;
+  font-size: 15px;
+  font-family: Sans-serif;
+
+}
+
+li {
+  margin-top: 20px;
+}
+
+.quote {
+  margin-left: 4%;
+  font-size: 17px;
+}
+#quote {
+  text-align: justify;
+  margin-top: 50px;
+}
+#quoteby {
+  text-align: left;
+}
+
+#wiki-link {
+  font-size: 16px;
+  font-family: Sans-serif;
+  margin-top: 50px;
+  padding-bottom: 10px;
+}
+
+
+
+
+
+
+
