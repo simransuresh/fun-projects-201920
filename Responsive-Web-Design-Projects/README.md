@@ -15,3 +15,5 @@ Pure HTML and CSS
 4. Technical documentation 
 
 5. Tribute page
+
+STATUS: completed
