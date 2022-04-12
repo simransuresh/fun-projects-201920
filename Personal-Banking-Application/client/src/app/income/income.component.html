@@ -1,0 +1,19 @@
+<!--p>
+  income works!
+</p-->
+
+<hr>
+
+<form #incomeDetails="ngForm" (ngSubmit)="addIncome(incomeDetails)">
+    <div class="form-group">
+      <label for="income">Income amount</label>
+      <input type="number" ngModel name="income" id="income" class="form-control"
+        placeholder="Enter income amount">
+    </div>
+    <div class="form-group">
+      <label for="source">Source of income</label>
+      <input type="text" ngModel name="source" id="source" class="form-control"
+        placeholder="Enter description">
+    </div>
+    <button type="submit" class="btn btn-primary">Add income</button>
+  </form>

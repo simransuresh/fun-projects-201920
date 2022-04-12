@@ -1,0 +1,19 @@
+<!--p>
+  login works!
+</p-->
+
+
+<hr>
+<form #loginCred="ngForm" (ngSubmit)="loginSubmit(loginCred)">
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" ngModel name="email" id="email" class="form-control"
+        placeholder="Enter username">
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" ngModel name="password" id="password" class="form-control"
+        placeholder="Enter password">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
