@@ -1,0 +1,22 @@
+{
+    "dbData" :
+    {
+      "host" : "localhost",
+      "user" : "root",
+      "password" : "",
+      "database" : "user_db"
+    },
+
+    "imagePath":
+    {
+      "imageUploadSrc" : "./",
+      "imageUploadDest": "./userAuth/src/assets/"
+    },
+
+    "serverData" :
+    {
+      "port": 5000,
+      "rootDir": " ",
+      "logFile": "./log.json"
+    }
+}

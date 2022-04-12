@@ -1,0 +1,76 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<br>
+<div style="text-align:center">
+  <h4>
+    {{ title }}
+  </h4>
+
+</div>
+<img src="../assets/download.png" alt="Paris" class="center">
+<div class="container">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">DashBoard</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active" >
+          <a class="nav-link" routerLink="/">Home </a>
+        </li>
+        <li  class="nav-item ">
+          <a class="nav-link" *ngIf="!useractive" routerLink="/register">Register</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="!useractive" routerLink="/picture">Picture Upload</a>
+        </li>
+        <li  class="nav-item">
+          <a class="nav-link" *ngIf="!useractive" routerLink="/login">Login</a>
+        </li>
+        <!-- <li class="nav-item active">
+          <a class="nav-link" routerLink="/login">Login<span class="sr-only">(current)</span></a>
+        </li> -->
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive && isAdmin" routerLink="/adminprofile">Profile</a>
+      </li>
+      <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive && !isAdmin" routerLink="/profile">Profile</a>
+      </li>
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive && isAdmin" routerLink="/notifications">Notifications</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive && isAdmin" routerLink="/roleassign">Assign roles</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive && isAdmin" routerLink="/tasks">Tasks</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive && !isAdmin" routerLink="/usertasks">My Tasks</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive && isAdmin" routerLink="/location">Location</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" *ngIf="useractive" routerLink="/login" (click)="auth.logout()">Logout</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+<!--app-person></app-person-->
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+
+<notifier-container></notifier-container>
+
+
+
+
+
+
+
+
+
+

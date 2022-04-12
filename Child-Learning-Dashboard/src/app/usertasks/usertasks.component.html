@@ -1,0 +1,27 @@
+<!-- <p>usertasks works!</p> -->
+
+<h5 class="text-center">ASSIGNED TASKS</h5>
+  <table class="table col-md-12 mx-auto">
+      <thead>
+          <tr>
+            <th>Task</th>
+            <th>Start time</th>
+            <th>End time</th>
+          </tr>
+        </thead>
+        <tbody>
+                <tr *ngFor="let taskinfo of results">
+                    <td>
+                      {{taskinfo.assigned_tasks}}
+                    </td>
+                    <td>
+                      {{taskinfo.start_time}}
+                    </td>
+                    <td>
+                      {{taskinfo.end_time}}
+                    </td>
+                </tr>
+        </tbody>
+  </table>
+  <hr>
+

@@ -1,0 +1,22 @@
+<hr>
+<!-- <h1>Angular 7 FormData (multipart/data-form) Example</h1> -->
+    <div>
+        <form [formGroup] = "uploadForm" (ngSubmit)="onSubmit()">
+          <div>
+            <input type="file" name="profile" (change)="onFileSelect($event)" />
+            <img id="blah" [src]="imageSrc" alt="your image" width="80" height="80"/>
+          </div>
+          <div class="slimbar-container">
+            <ng2-slim-loading-bar></ng2-slim-loading-bar>
+          </div>
+          <div *ngIf="showMessage">
+            <p>{{message}}</p>
+          </div>
+          <hr>
+          <div>
+            <button type="submit">Upload</button>
+          </div>
+
+        </form>
+      </div>
+

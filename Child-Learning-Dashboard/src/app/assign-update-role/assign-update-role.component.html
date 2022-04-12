@@ -1,0 +1,34 @@
+<!-- <p>assign-update-role works!</p> -->
+
+<hr>
+<form #assignrole="ngForm" (ngSubmit)="assignRole(assignrole)">
+    <div class="form-group">
+        <label for="user">User to assign role</label>
+        <input type="text" ngModel name="user" id="user" class="form-control"
+          placeholder="Enter name of user">
+      </div>
+      <label for="user">What role to assign</label><br>
+    <input type="radio" value="login"  name="role" [ngModel]="queryInfo.role" > Login
+    <input type="radio" value="profile" name="role" [ngModel]="queryInfo.role" > Profile
+    <input type="radio" value="upload" name="role" [ngModel]="queryInfo.role" > Upload
+    <br>
+    <button type="submit" class="btn btn-primary">Assign</button>
+
+  </form>
+<br>
+  <form #removerole="ngForm" (ngSubmit)="removeRole(removerole)">
+    <div class="form-group">
+      <label for="user">User to remove role</label>
+      <input type="text" ngModel name="user" id="user" class="form-control"
+        placeholder="Enter name of user">
+    </div>
+    <label for="user">What role to remove</label><br>
+  <input type="radio" value="login"  name="role" [ngModel]="queryInfo.role" > Login
+  <input type="radio" value="profile" name="role" [ngModel]="queryInfo.role" > Profile
+  <input type="radio" value="upload" name="role" [ngModel]="queryInfo.role" > Upload
+  <br>
+  <button type="submit" class="btn btn-primary">Remove</button>
+  </form>
+<hr>
+
+

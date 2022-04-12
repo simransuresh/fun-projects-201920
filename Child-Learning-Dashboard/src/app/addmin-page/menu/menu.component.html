@@ -1,0 +1,67 @@
+<!-- <p>menu works!</p> -->
+
+<button type="submit" class='export' (click)='exportUsers()'>Export Users</button>
+<br>
+
+<button type="submit" class='sort' (click)='sortUsers()'>Sort</button>
+<br>
+
+<form>
+    <input #userfilter type="text" name="userfilter" placeholder="Enter a userfilter">
+    <button type="submit" (click)="filterUsers(userfilter.value)">Filter</button>
+</form>
+<br>
+
+<!-- <body>
+    <div id="page">
+
+      <div id="menuleftcontent">
+        <ul id="myUL">
+          <br><span class="caret">Users</span>
+            <ul class="nested">
+              <li *ngFor="let usersInfo of results" (click)='showUserProfile(usersInfo.name)' ><span class="caret">{{usersInfo.name}}</span>
+                  <ul class="nested">
+                    <input type="radio" value="active" name="active" [ngModel]="usersInfo.active" (click)="activate(usersInfo.name,true)">Enable
+                    <br>
+                    <input type="radio" value="inactive" name="active" [ngModel]="usersInfo.active" (click)="activate(usersInfo.name,false)">Disable
+                    <br>
+                    <input type="radio" value="delete" name="delete" (click)="deleteUser(usersInfo.name)">Delete
+                  </ul>
+                </li>
+            </ul>
+        </ul>
+
+    </div>
+
+    </div>
+
+    </body> -->
+
+    <body>
+      <div id="page">
+
+        <div id="menuleftcontent">
+          <h5 class="text-center">USERS</h5>
+          <table class="table col-md-12 mx-auto">
+          <tbody>
+                  <tr *ngFor="let userInfo of results" (click)='showUserProfile(userInfo.name)'>
+                      <td>
+                        {{userInfo.name}}<br>
+                        <div *ngIf="userInfo.active; else elseBlock">Active</div>
+                        <ng-template #elseBlock>Inactive</ng-template>
+                        <!-- <input type="checkbox" value="active" name="active" [ngModel]="userInfo.active" (click)="activate(userInfo.name,true)">Enable -->
+                        <!-- <input type="checkbox" name="active"
+                          ng-model="usersInfo.active"
+                          (click)='enableDisableUser(userInfo.name)'>Enable -->
+                        <input type="checkbox" (click)="enableDisableUser(userInfo.name,userInfo.active)">
+                      </td>
+                  </tr>
+          </tbody>
+    </table>
+
+      </div>
+
+      </div>
+
+      </body>
+

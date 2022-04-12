@@ -1,0 +1,27 @@
+<!-- <p>notifications works!</p> -->
+
+<h5 class="text-center">USERS ADDED/DELETED TODAY</h5>
+  <table class="table col-md-12 mx-auto">
+      <thead>
+          <tr>
+            <th>Name</th>
+            <!-- <th>Name</th> -->
+            <th>Username</th>
+            <th>Active</th>
+          </tr>
+        </thead>
+        <tbody>
+                <tr *ngFor="let userInfo of results">
+                    <td>
+                      {{userInfo.name}}
+                    </td>
+                    <td>
+                      {{userInfo.username}}
+                    </td>
+                    <td>
+                      {{userInfo.active}}
+                    </td>
+                </tr>
+        </tbody>
+  </table>
+  <hr>

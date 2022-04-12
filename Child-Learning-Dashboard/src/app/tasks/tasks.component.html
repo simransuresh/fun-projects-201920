@@ -1,0 +1,32 @@
+<!-- <p>tasks works!</p> -->
+
+<h5 class="text-center">TASKS</h5>
+  <table class="table col-md-12 mx-auto">
+      <!-- <<thead>
+        <tr>
+          <th>Task</th>
+
+          <th>Start time</th>
+          <th>End time</th>
+        </tr>
+      </thead> -->
+        <tbody>
+                <tr *ngFor="let task of results">
+                    <td>
+                      {{task.tasks}}
+                    </td>
+                    <button type="submit" class="btn btn-primary" (click)='assignTask(task.tasks)'>Assign</button>
+                </tr>
+        </tbody>
+  </table>
+  <hr>
+
+  <hr>
+  <form #addnewtask="ngForm" (ngSubmit)="addNewTask(addnewtask)">
+      <div class="form-group">
+        <label for="task">Task name</label>
+        <input type="text" ngModel name="task" id="task" class="form-control"
+          placeholder="Enter task name">
+      </div>
+      <button type="submit" class="btn btn-primary">Add task</button>
+    </form>

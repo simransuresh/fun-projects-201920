@@ -1,0 +1,34 @@
+<!-- <p>profile-page works!</p> -->
+
+<div id="page">
+    <div id="maincontent">
+      <hr>
+      <h3 class="text-center">PROFILE</h3>
+      <table class="table col-md-6 mx-auto">
+        <tr>
+          <td>Name</td>
+          <td>{{adminInfo.name}}</td>
+        </tr>
+        <tr>
+            <td>Username</td>
+            <td>{{adminInfo.username}}</td>
+          </tr>
+          <tr>
+            <td>Active</td>
+            <td>{{status}}</td>
+          </tr>
+          <tr>
+            <td>User type</td>
+            <td>{{typeOfUser}}</td>
+          </tr>
+      </table>
+      <hr>
+
+      <div style="display: flex; justify-content: center;">
+        <img src="{{adminInfo.imagePath}}" onerror="this.src='http://placehold.it/180';" width=80 height=80 alt="Missing Image" />
+      </div>
+  </div>
+
+
+
+

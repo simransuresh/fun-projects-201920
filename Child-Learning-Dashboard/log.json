@@ -1,0 +1,143 @@
+{"level":3,"time":"2019-08-02T09:42:44.119Z","msg":"DB insertion success for user simran"}
+{"level":3,"time":"2019-08-02T09:42:44.215Z","msg":"U[date user done:::simran"}
+{"level":3,"time":"2019-08-02T09:43:59.979Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T09:44:00.006Z","msg":"File move is failed..."}
+{"level":3,"time":"2019-08-02T09:44:00.085Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T09:50:28.026Z","msg":"DB insertion success for user simran"}
+{"level":3,"time":"2019-08-02T09:50:28.141Z","msg":"U[date user done:::simran"}
+{"level":3,"time":"2019-08-02T09:50:34.117Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T09:50:34.181Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T09:50:34.122Z","msg":"File move is failed..."}
+{"level":3,"time":"2019-08-02T09:52:23.473Z","msg":"DB insertion success for user simran"}
+{"level":3,"time":"2019-08-02T09:52:23.544Z","msg":"U[date user done:::simran"}
+{"level":3,"time":"2019-08-02T09:52:28.859Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T09:52:28.868Z","msg":"File move is failed..."}
+{"level":3,"time":"2019-08-02T09:52:28.922Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T09:53:50.566Z","msg":"DB insertion success for user simran"}
+{"level":3,"time":"2019-08-02T09:53:50.631Z","msg":"U[date user done:::simran"}
+{"level":3,"time":"2019-08-02T09:53:55.832Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T09:53:55.837Z","msg":"File move is failed..."}
+{"level":3,"time":"2019-08-02T09:53:55.892Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T09:56:12.015Z","msg":"DB insertion success for user simran"}
+{"level":3,"time":"2019-08-02T09:56:12.019Z","msg":"U[date user done:::simran"}
+{"level":3,"time":"2019-08-02T09:56:17.567Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T09:56:17.586Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T09:56:17.640Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T10:34:55.356Z","msg":"DB insertion success for user simran"}
+{"level":3,"time":"2019-08-02T10:34:55.480Z","msg":"U[date user done:::simran"}
+{"level":3,"time":"2019-08-02T10:35:01.189Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T10:35:01.194Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T10:35:01.287Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T10:35:03.198Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T10:35:03.200Z","msg":"Logged usersimran"}
+{"level":3,"time":"2019-08-02T10:35:04.458Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T10:35:04.461Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T10:35:12.529Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T10:35:12.533Z","msg":"Logged userguru"}
+{"level":3,"time":"2019-08-02T10:35:12.857Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T10:35:12.860Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T10:35:29.646Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T10:35:29.649Z","msg":"Logged usermyuser"}
+{"level":3,"time":"2019-08-02T10:35:30.059Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T10:35:30.061Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T10:43:56.216Z","msg":"DB insertion success for user xsa"}
+{"level":3,"time":"2019-08-02T10:43:56.409Z","msg":"New user added:::xsa"}
+{"level":3,"time":"2019-08-02T10:48:40.975Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T10:48:40.982Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T10:48:41.056Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T10:49:02.232Z","msg":"DB insertion success for user guru123"}
+{"level":3,"time":"2019-08-02T10:49:02.395Z","msg":"New user added:::guru123"}
+{"level":3,"time":"2019-08-02T10:49:07.662Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T10:49:07.666Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T10:49:07.706Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T10:49:14.425Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T10:49:14.429Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T10:49:14.888Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T10:49:14.891Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T10:49:28.152Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T10:49:28.154Z","msg":"Logged userguru"}
+{"level":3,"time":"2019-08-02T10:49:28.445Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T10:49:28.447Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T11:50:33.817Z","msg":"DB insertion success for user user67"}
+{"level":3,"time":"2019-08-02T11:50:33.940Z","msg":"New user added:::user67"}
+{"level":3,"time":"2019-08-02T11:50:42.095Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T11:50:42.098Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T11:50:42.156Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T11:54:44.558Z","msg":"DB insertion success for user myuser1"}
+{"level":3,"time":"2019-08-02T11:54:44.718Z","msg":"New user added:::myuser1"}
+{"level":3,"time":"2019-08-02T11:54:54.826Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T11:54:54.830Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T11:54:54.874Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T11:56:09.491Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T11:57:03.057Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T12:00:45.596Z","msg":"DB insertion success for user sim123"}
+{"level":3,"time":"2019-08-02T12:00:45.707Z","msg":"New user added:::sim123"}
+{"level":3,"time":"2019-08-02T12:00:57.036Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T12:00:57.040Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T12:00:57.096Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T12:01:03.656Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T12:04:43.082Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:04:43.100Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:07:16.299Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:07:16.301Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:07:35.077Z","msg":"DB insertion success for user guru"}
+{"level":3,"time":"2019-08-02T12:07:35.185Z","msg":"U[date user done:::guru"}
+{"level":3,"time":"2019-08-02T12:07:43.536Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T12:07:43.540Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T12:07:43.675Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T12:07:49.981Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:07:49.986Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:07:50.296Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:07:50.298Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:08:17.261Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:08:17.263Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:08:17.656Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:08:17.658Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:08:57.158Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:08:57.160Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:08:58.290Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:08:58.292Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:12:35.552Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:12:35.571Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:12:37.088Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:12:37.090Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:12:52.764Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:12:52.765Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:12:53.119Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:12:53.121Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:13:01.253Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:13:01.256Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:13:02.290Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:13:02.293Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:15:28.175Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T12:41:19.267Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T12:42:13.915Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:42:13.935Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:42:15.887Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:42:15.888Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:44:31.108Z","msg":"DB insertion success for user sed"}
+{"level":3,"time":"2019-08-02T12:44:31.258Z","msg":"New user added:::sed"}
+{"level":3,"time":"2019-08-02T12:44:38.383Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T12:44:38.387Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T12:44:38.418Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T12:44:59.676Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:44:59.679Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:45:01.347Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:45:01.349Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:45:34.244Z","msg":"DB insertion success for user des"}
+{"level":3,"time":"2019-08-02T12:45:34.387Z","msg":"New user added:::des"}
+{"level":3,"time":"2019-08-02T12:45:40.449Z","msg":"Profile picture uploaded for :::"}
+{"level":3,"time":"2019-08-02T12:45:40.454Z","msg":"File move is SUCCESS..."}
+{"level":3,"time":"2019-08-02T12:45:40.487Z","msg":"Profile pic uploaded in DB:::"}
+{"level":3,"time":"2019-08-02T12:46:10.876Z","msg":"DB insertion success for user fed"}
+{"level":3,"time":"2019-08-02T12:46:11.033Z","msg":"New user added:::fed"}
+{"level":3,"time":"2019-08-02T12:49:26.322Z","msg":"Login function entering...."}
+{"level":1,"time":"2019-08-02T12:49:26.327Z","msg":"Login user failed......"}
+{"level":3,"time":"2019-08-02T12:49:27.612Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:49:27.614Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:52:48.066Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T12:52:48.085Z","msg":"Logged userfed"}
+{"level":3,"time":"2019-08-02T12:52:48.411Z","msg":"Profile info displayed....."}
+{"level":3,"time":"2019-08-02T12:52:48.413Z","msg":"Profile info DB query SUCCESS"}
+{"level":3,"time":"2019-08-02T12:52:57.950Z","msg":"Login function entering...."}
+{"level":3,"time":"2019-08-02T12:52:57.953Z","msg":"Logged userfed"}
