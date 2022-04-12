@@ -1,0 +1,6 @@
+[submodule "Food-Ordering-Platform"]
+	path = Food-Ordering-Platform
+	url = https://github.com/simransuresh/Food-Ordering-Platform
+[submodule "Air-Ticket-Booking-Portal"]
+	path = Air-Ticket-Booking-Portal
+	url = https://github.com/simransuresh/Air-Ticket-Booking-Portal
